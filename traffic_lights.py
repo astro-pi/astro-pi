@@ -52,8 +52,6 @@ red_sign = [
 
 s.clear()
 
-#s.stick.wait_for_event()
-
 while True:
 
     for event in s.stick.get_events():
@@ -86,12 +84,3 @@ while True:
             s.set_pixels(orange_sign)
             time.sleep(2)
             s.clear()
-
-            
-
-
-#s.set_pixels(green_sign)
-#time.sleep(2)
-#s.set_pixels(orange_sign)
-#time.sleep(2)
-#s.set_pixels(red_sign)
