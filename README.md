@@ -7,6 +7,7 @@ Web: http://2gym-samou.sam.sch.gr
 Code & Reports Files:
 Samians_proj1_PresenceDetect-en.py
 Samians_proj2_AlarmSystem-en.py
+
 SamiansLogMission1.csv
 SamiansLogMission2.csv
 
@@ -20,7 +21,7 @@ https://astro-pi.org/about/mission/
 
 The winners were announced back in March, and since then their code has been uploaded to the ISS and run in space!
 
-=========================================================================================
+===========================================================================
 
 IN GREEK:
 Το Astro Pi είναι το όνομα ενός μικρού υπολογιστή που αναπτύχθηκε από το Ίδρυμα Raspberry Pi, σε συνεργασία με τον Οργανισμό Διαστήματος του Ηνωμένου Βασιλείου και της ESA.
