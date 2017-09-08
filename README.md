@@ -2,16 +2,17 @@
 European Astro Pi Challenge 2016 - 2017
 
 Astro Pi Team: Samians 	2o GYMNASIO SAMOU 	Greece
+Web: http://2gym-samou.sam.sch.gr
 
 Code & Reports Files:
-	Samians_proj1_PresenceDetect-en.py
-	Samians_proj2_AlarmSystem-en.py
- 	SamiansLogMission1.csv
-	SamiansLogMission2.csv
-  
-	Samians_Astro_Pi_Phase_1_challenge_proposal.pdf
-	Samians_Astro_Pi_Phase_2_mission_report.pdf
-  
+Samians_proj1_PresenceDetect-en.py
+Samians_proj2_AlarmSystem-en.py
+SamiansLogMission1.csv
+SamiansLogMission2.csv
+
+Samians_Astro_Pi_Phase_1_challenge_proposal.pdf
+Samians_Astro_Pi_Phase_2_mission_report.pdf
+
 In October 2016, the European Space Agency and CNES, launched the first ever European Astro Pi challenge. They asked students from all across Europe to write code for the flight of French ESA astronaut Thomas Pesquet to the International Space Station (ISS) as part of the Proxima mission.
 
 Two augmented Raspberry Pi computers (called Astro Pis) were flown to the International Space Station (ISS) as part of British ESA Astronaut Tim Peake’s mission. They are both equipped with the mighty Sense HAT that can measure the environment inside the station, detect how it’s moving through space, and pick up the Earth’s magnetic field. Each Astro Pi is also equipped with a different kind of camera; one has an infrared camera, and the other has a standard visible spectrum camera.
@@ -19,6 +20,7 @@ https://astro-pi.org/about/mission/
 
 The winners were announced back in March, and since then their code has been uploaded to the ISS and run in space!
 
+=========================================================================================
 
 IN GREEK:
 Το Astro Pi είναι το όνομα ενός μικρού υπολογιστή που αναπτύχθηκε από το Ίδρυμα Raspberry Pi, σε συνεργασία με τον Οργανισμό Διαστήματος του Ηνωμένου Βασιλείου και της ESA.
